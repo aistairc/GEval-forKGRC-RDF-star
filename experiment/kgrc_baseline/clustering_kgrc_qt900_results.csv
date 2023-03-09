@@ -1,0 +1,5 @@
+task_name,gold_standard_file,coverage,model_name,model_configuration,num_clusters,adjusted_rand_index,adjusted_mutual_info_score,homogeneity_score,completeness_score,v_measure_score,normalized_mutual_info_score,clustering_accuracy
+Clustering,kgrc_qt900,1.0,DBSCAN,metric=cosine,57,0.051119874567453,0.110046009244242,0.205686358883304,0.118748267226985,0.150569000617813,0.150569000617813,0.354444444444444
+Clustering,kgrc_qt900,1.0,KMeans,"metric=enclidean, n_clusters=3",3,0.314085578195334,0.323817279297621,0.32254694151282,0.327898247079003,0.325200581317904,0.325200581317904,0.69
+Clustering,kgrc_qt900,1.0,Agglomerative clustering,"metric=cosine, n_clusters=3",3,0.177368341196023,0.187633216141398,0.17912505505277,0.200875005054803,0.189377582356072,0.189377582356072,0.564444444444444
+Clustering,kgrc_qt900,1.0,Ward hierarchical clustering,"metric=cosine, n_clusters=3",3,0.366361109635221,0.341999452478407,0.339605932107672,0.347176240811257,0.343349363205624,0.343349363205624,0.69

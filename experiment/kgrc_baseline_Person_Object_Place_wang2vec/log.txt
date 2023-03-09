@@ -1,0 +1,6 @@
+TESTED CONFIGURATION
+Vector filename: ikgrc_embeddings/ikgrc_baseline_remove_Person_Object_Place_wang2vec.txt
+Vector size:100
+Distance metric:cosine
+
+Classification execution time: 0.0:0.0:42.78 seconds

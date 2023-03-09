@@ -1,0 +1,8 @@
+<<<<sb:window_of_bedroom_of_Julia-sb:narrow-owl:Nothing>>-rdf:value-http://kgc.knowledge-graph.jp/data/SpeckledBand/T184>>
+<<<<owl:Nothing-owl:TopObjectProperty-owl:Nothing>>-rdf:value-http://kgc.knowledge-graph.jp/data/SpeckledBand/k001>>
+"<<<<ci:Woman-kgp:tell-ci:Sutherland>>-rdf:value-""http://kgc.knowledge-graph.jp/data/ACaseOfIdentity/33""-1>>"
+<<<<sb:man-kgp:cannotGo-sb:bedroom_of_Roylott>>-rdf:value-http://kgc.knowledge-graph.jp/data/SpeckledBand/T186>>
+<<<<sb:window_of_bedroom_of_Roylott-sb:narrow-owl:Nothing>>-rdf:value-http://kgc.knowledge-graph.jp/data/SpeckledBand/T184>>
+<<<<sb:man-kgp:cannotGo-sb:bedroom_of_Helen>>-rdf:value-http://kgc.knowledge-graph.jp/data/SpeckledBand/T186>>
+<<<<sb:man-kgp:cannotGo-sb:bedroom_of_Julia>>-rdf:value-http://kgc.knowledge-graph.jp/data/SpeckledBand/T186>>
+<<<<sb:window_of_bedroom_of_Helen-sb:narrow-owl:Nothing>>-rdf:value-http://kgc.knowledge-graph.jp/data/SpeckledBand/T184>>

@@ -1,0 +1,64 @@
+task_name gold_standard_file model model_configuration metric ranking absolute_total relative_total
+Clustering kgrc_person_object_place DBSCAN metric=cosine adjusted_rand_index 9 12 6
+Clustering kgrc_person_object_place DBSCAN metric=cosine adjusted_mutual_info_score 7 12 6
+Clustering kgrc_person_object_place DBSCAN metric=cosine homogeneity_score 5 12 6
+Clustering kgrc_person_object_place DBSCAN metric=cosine completeness_score 9 12 6
+Clustering kgrc_person_object_place DBSCAN metric=cosine v_measure_score 5 12 6
+Clustering kgrc_person_object_place DBSCAN metric=cosine normalized_mutual_info_score 5 12 6
+Clustering kgrc_person_object_place DBSCAN metric=cosine clustering_accuracy 6 12 6
+Clustering kgrc_person_object_place KMeans "metric=enclidean, n_clusters=3" adjusted_rand_index 11 12 6
+Clustering kgrc_person_object_place KMeans "metric=enclidean, n_clusters=3" adjusted_mutual_info_score 11 12 6
+Clustering kgrc_person_object_place KMeans "metric=enclidean, n_clusters=3" homogeneity_score 11 12 6
+Clustering kgrc_person_object_place KMeans "metric=enclidean, n_clusters=3" completeness_score 11 12 6
+Clustering kgrc_person_object_place KMeans "metric=enclidean, n_clusters=3" v_measure_score 11 12 6
+Clustering kgrc_person_object_place KMeans "metric=enclidean, n_clusters=3" normalized_mutual_info_score 11 12 6
+Clustering kgrc_person_object_place KMeans "metric=enclidean, n_clusters=3" clustering_accuracy 11 12 6
+Clustering kgrc_person_object_place "Agglomerative clustering" "metric=cosine, n_clusters=3" adjusted_rand_index 3 12 6
+Clustering kgrc_person_object_place "Agglomerative clustering" "metric=cosine, n_clusters=3" adjusted_mutual_info_score 3 12 6
+Clustering kgrc_person_object_place "Agglomerative clustering" "metric=cosine, n_clusters=3" homogeneity_score 3 12 6
+Clustering kgrc_person_object_place "Agglomerative clustering" "metric=cosine, n_clusters=3" completeness_score 3 12 6
+Clustering kgrc_person_object_place "Agglomerative clustering" "metric=cosine, n_clusters=3" v_measure_score 3 12 6
+Clustering kgrc_person_object_place "Agglomerative clustering" "metric=cosine, n_clusters=3" normalized_mutual_info_score 3 12 6
+Clustering kgrc_person_object_place "Agglomerative clustering" "metric=cosine, n_clusters=3" clustering_accuracy 5 12 6
+Clustering kgrc_person_object_place "Ward hierarchical clustering" "metric=cosine, n_clusters=3" adjusted_rand_index 11 12 6
+Clustering kgrc_person_object_place "Ward hierarchical clustering" "metric=cosine, n_clusters=3" adjusted_mutual_info_score 7 12 6
+Clustering kgrc_person_object_place "Ward hierarchical clustering" "metric=cosine, n_clusters=3" homogeneity_score 7 12 6
+Clustering kgrc_person_object_place "Ward hierarchical clustering" "metric=cosine, n_clusters=3" completeness_score 7 12 6
+Clustering kgrc_person_object_place "Ward hierarchical clustering" "metric=cosine, n_clusters=3" v_measure_score 7 12 6
+Clustering kgrc_person_object_place "Ward hierarchical clustering" "metric=cosine, n_clusters=3" normalized_mutual_info_score 7 12 6
+Clustering kgrc_person_object_place "Ward hierarchical clustering" "metric=cosine, n_clusters=3" clustering_accuracy 11 12 6
+Clustering kgrc_qt900 DBSCAN metric=cosine adjusted_rand_index 0 39 20
+Clustering kgrc_qt900 DBSCAN metric=cosine adjusted_mutual_info_score 15 39 20
+Clustering kgrc_qt900 DBSCAN metric=cosine homogeneity_score 25 39 20
+Clustering kgrc_qt900 DBSCAN metric=cosine completeness_score 29 39 20
+Clustering kgrc_qt900 DBSCAN metric=cosine v_measure_score 27 39 20
+Clustering kgrc_qt900 DBSCAN metric=cosine normalized_mutual_info_score 27 39 20
+Clustering kgrc_qt900 DBSCAN metric=cosine clustering_accuracy 22 39 18
+Clustering kgrc_qt900 KMeans "metric=enclidean, n_clusters=3" adjusted_rand_index 11 39 13
+Clustering kgrc_qt900 KMeans "metric=enclidean, n_clusters=3" adjusted_mutual_info_score 23 39 13
+Clustering kgrc_qt900 KMeans "metric=enclidean, n_clusters=3" homogeneity_score 23 39 13
+Clustering kgrc_qt900 KMeans "metric=enclidean, n_clusters=3" completeness_score 23 39 13
+Clustering kgrc_qt900 KMeans "metric=enclidean, n_clusters=3" v_measure_score 23 39 13
+Clustering kgrc_qt900 KMeans "metric=enclidean, n_clusters=3" normalized_mutual_info_score 23 39 13
+Clustering kgrc_qt900 KMeans "metric=enclidean, n_clusters=3" clustering_accuracy 22 39 12
+Clustering kgrc_qt900 "Agglomerative clustering" "metric=cosine, n_clusters=3" adjusted_rand_index 13 39 16
+Clustering kgrc_qt900 "Agglomerative clustering" "metric=cosine, n_clusters=3" adjusted_mutual_info_score 28 39 16
+Clustering kgrc_qt900 "Agglomerative clustering" "metric=cosine, n_clusters=3" homogeneity_score 28 39 16
+Clustering kgrc_qt900 "Agglomerative clustering" "metric=cosine, n_clusters=3" completeness_score 28 39 16
+Clustering kgrc_qt900 "Agglomerative clustering" "metric=cosine, n_clusters=3" v_measure_score 28 39 16
+Clustering kgrc_qt900 "Agglomerative clustering" "metric=cosine, n_clusters=3" normalized_mutual_info_score 28 39 16
+Clustering kgrc_qt900 "Agglomerative clustering" "metric=cosine, n_clusters=3" clustering_accuracy 27 39 13
+Clustering kgrc_qt900 "Ward hierarchical clustering" "metric=cosine, n_clusters=3" adjusted_rand_index 11 39 20
+Clustering kgrc_qt900 "Ward hierarchical clustering" "metric=cosine, n_clusters=3" adjusted_mutual_info_score 30 39 20
+Clustering kgrc_qt900 "Ward hierarchical clustering" "metric=cosine, n_clusters=3" homogeneity_score 30 39 20
+Clustering kgrc_qt900 "Ward hierarchical clustering" "metric=cosine, n_clusters=3" completeness_score 30 39 20
+Clustering kgrc_qt900 "Ward hierarchical clustering" "metric=cosine, n_clusters=3" v_measure_score 30 39 20
+Clustering kgrc_qt900 "Ward hierarchical clustering" "metric=cosine, n_clusters=3" normalized_mutual_info_score 30 39 20
+Clustering kgrc_qt900 "Ward hierarchical clustering" "metric=cosine, n_clusters=3" clustering_accuracy 33 39 17
+EntityRelatedness kgrc_entity_relatedness - - kendalltau_correlation 15 35 16
+DocumentSimilarity LP50 with_weights - pearson_score 0 35 26
+DocumentSimilarity LP50 with_weights - spearman_score 0 35 26
+DocumentSimilarity LP50 with_weights - harmonic_mean 3 35 26
+DocumentSimilarity LP50 without_weights - pearson_score 0 35 26
+DocumentSimilarity LP50 without_weights - spearman_score 0 35 26
+DocumentSimilarity LP50 without_weights - harmonic_mean 3 35 26

@@ -1,0 +1,7 @@
+TESTED CONFIGURATION
+Vector filename: ikgrc_embeddings/ikgrc_rdfstar2vec_5_5_randomwalk_wang2vec.txt
+Vector size:100
+Distance metric:cosine
+
+Clustering execution time: 0.54 seconds
+Entity Relatedness execution time: 0.94 seconds

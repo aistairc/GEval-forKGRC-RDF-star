@@ -1,0 +1,5 @@
+task_name,gold_standard_file,coverage,model_name,model_configuration,num_clusters,adjusted_rand_index,adjusted_mutual_info_score,homogeneity_score,completeness_score,v_measure_score,normalized_mutual_info_score,clustering_accuracy
+Clustering,kgrc_person_object_place,1.0,DBSCAN,metric=cosine,165,0.002413853238414,0.028128682953997,0.348718754548924,0.126634044090519,0.185797438303228,0.185797438303228,0.211111111111111
+Clustering,kgrc_person_object_place,1.0,KMeans,"metric=enclidean, n_clusters=3",3,0.102965701404874,0.091714753826391,0.091396138210688,0.09871573163759,0.094915027236529,0.094915027236529,0.477777777777778
+Clustering,kgrc_person_object_place,1.0,Agglomerative clustering,"metric=cosine, n_clusters=3",3,0.074483442299672,0.065749077001564,0.06646452891323,0.071826617635529,0.069041618696724,0.069041618696724,0.457407407407407
+Clustering,kgrc_person_object_place,1.0,Ward hierarchical clustering,"metric=cosine, n_clusters=3",3,0.012009088876327,0.040868761754168,0.038028669695298,0.054230059314382,0.044706816045703,0.044706816045703,0.387037037037037

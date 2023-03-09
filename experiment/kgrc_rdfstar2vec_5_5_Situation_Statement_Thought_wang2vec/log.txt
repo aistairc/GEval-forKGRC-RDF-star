@@ -1,0 +1,6 @@
+TESTED CONFIGURATION
+Vector filename: ikgrc_embeddings/ikgrc_rdfstar2vec_5_5_remove_Situation_Statement_Thought_wang2vec.txt
+Vector size:100
+Distance metric:cosine
+
+Classification execution time: 0.0:0.0:47.11 seconds

@@ -1,0 +1,8 @@
+TESTED CONFIGURATION
+Vector filename: ikgrc_baseline_word2vec.txt
+Vector size:100
+Distance metric:cosine
+
+Clustering execution time: 0.52 seconds
+Entity Relatedness execution time: 0.87 seconds
+Document Similarity execution time: 8.07 seconds

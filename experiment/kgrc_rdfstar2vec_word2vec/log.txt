@@ -1,0 +1,8 @@
+TESTED CONFIGURATION
+Vector filename: ikgrc_rdfstar2vec_5_5_word2vec.txt
+Vector size:100
+Distance metric:cosine
+
+Clustering execution time: 0.54 seconds
+Entity Relatedness execution time: 0.88 seconds
+Document Similarity execution time: 8.29 seconds

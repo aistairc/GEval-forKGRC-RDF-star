@@ -1,0 +1,452 @@
+[
+  {
+    "text": "Jack Croker could not leave Lady Blackenstall for Sir Eustace Blackenstall",
+    "annotations": [
+      {
+        "weight": 1.0,
+        "entity": "<<<<ag:Jack_Croker-kdp:notLeave-ag:Lady_Brackenstall>>-rdf:value-\"http://kgc.knowledge-graph.jp/data/AbbeyGrange/357\">>"
+      }
+    ]
+  },
+  {
+    "text": "Holmes hear from Henry.",
+    "annotations": [
+      {
+        "weight": 1.0,
+        "entity": "<<<<cm:Holmes-kdp:hear-cm:story>>-rdf:value-\"http://kgc.knowledge-graph.jp/data/CrookedMan/170\">>"
+      }
+    ]
+  },
+  {
+    "text": "Holmes saw the dining room of Abbey Grange",
+    "annotations": [
+      {
+        "weight": 1.0,
+        "entity": "<<<<ag:Holmes-kdp:see-ag:dining_room>>-rdf:value-\"http://kgc.knowledge-graph.jp/data/AbbeyGrange/090\">>"
+      }
+    ]
+  },
+  {
+    "text": "The criminal was going to return to Abbey Grange to take the silver products later",
+    "annotations": [
+      {
+        "weight": 1.0,
+        "entity": "<<<<ag:Criminal-kdp:willReturn-ag:Abbey_Grange>>-rdf:value-\"http://kgc.knowledge-graph.jp/data/AbbeyGrange/299\">>"
+      }
+    ]
+  },
+  {
+    "text": "Holmes thought the following: The man might have killed Berkeley.",
+    "annotations": [
+      {
+        "weight": 1.0,
+        "entity": "<<<<cm:Holmes-kdp:think-<<<<cm:man-kdp:kill-cm:Barclay>>-rdf:value-\"http://kgc.knowledge-graph.jp/data/CrookedMan/153\">>>>-rdf:value-\"http://kgc.knowledge-graph.jp/data/CrookedMan/152\">>"
+      }
+    ]
+  },
+  {
+    "text": "Elridge is a few miles ahead of East Ruston",
+    "annotations": [
+      {
+        "weight": 1.0,
+        "entity": "<<<<dm:Elridge-kdp:exist-dm:East_Ruston>>-rdf:value-\"http://kgc.knowledge-graph.jp/data/DancingMen/143\">>"
+      }
+    ]
+  },
+  {
+    "text": "Jack Croker walked into Holmes' room",
+    "annotations": [
+      {
+        "weight": 1.0,
+        "entity": "<<<<ag:Jack_Croker-kdp:come-ag:room_of_Holmes>>-rdf:value-\"http://kgc.knowledge-graph.jp/data/AbbeyGrange/309\">>"
+      }
+    ]
+  },
+  {
+    "text": "Henry was wondering the following to a Indian Rebellion: Henry can marry Nancy.",
+    "annotations": [
+      {
+        "weight": 1.0,
+        "entity": "<<<<cm:Henry-kdp:think-<<<<cm:Henry-kdp:canMarry-cm:Nancy>>-rdf:value-\"http://kgc.knowledge-graph.jp/data/CrookedMan/274\">>>>-rdf:value-\"http://kgc.knowledge-graph.jp/data/CrookedMan/273\">>"
+      }
+    ]
+  },
+  {
+    "text": "Holmes went out to the grass",
+    "annotations": [
+      {
+        "weight": 1.0,
+        "entity": "<<<<df:Holmes-kdp:go-df:garden>>-rdf:value-\"http://kgc.knowledge-graph.jp/data/DevilsFoot/275\">>"
+      }
+    ]
+  },
+  {
+    "text": "Holmes said the following: The criminal entered from the front entrance",
+    "annotations": [
+      {
+        "weight": 1.0,
+        "entity": "<<<<rp:Holmes-kdp:say-<<<<rp:Criminal-kdp:enter-rp:Front_door>>-rdf:value-\"http://kgc.knowledge-graph.jp/data/ResidentPatient/254\">>>>-rdf:value-\"http://kgc.knowledge-graph.jp/data/ResidentPatient/242\">>"
+      }
+    ]
+  },
+  {
+    "text": "Jack Croker heard what happened from Lady Bracknstall",
+    "annotations": [
+      {
+        "weight": 1.0,
+        "entity": "<<<<ag:Jack_Croker-kdp:hear-ag:Situation>>-rdf:value-\"http://kgc.knowledge-graph.jp/data/AbbeyGrange/345\">>"
+      }
+    ]
+  },
+  {
+    "text": "Blessington said the following to Percy Trevelyan: Blessington is to align the furniture.",
+    "annotations": [
+      {
+        "weight": 1.0,
+        "entity": "<<<<rp:Blessington-kdp:propose-<<<<rp:Blessington-kdp:align-rp:Furniture>>-rdf:value-\"http://kgc.knowledge-graph.jp/data/ResidentPatient/051\">>>>-rdf:value-\"http://kgc.knowledge-graph.jp/data/ResidentPatient/044\">>"
+      }
+    ]
+  },
+  {
+    "text": "Sutherland said the following: Sutherland does not rely on parents",
+    "annotations": [
+      {
+        "weight": 1.0,
+        "entity": "<<<<ci:Sutherland-kdp:say-<<<<ci:Sutherland-kdp:notRelyOn-ci:parents>>-rdf:value-\"http://kgc.knowledge-graph.jp/data/ACaseOfIdentity/102\">>>>-rdf:value-\"http://kgc.knowledge-graph.jp/data/ACaseOfIdentity/100\">>"
+      }
+    ]
+  },
+  {
+    "text": "Roylott went to London.",
+    "annotations": [
+      {
+        "weight": 1.0,
+        "entity": "<<<<sb:Roylott-kdp:go-sb:London>>-rdf:value-\"http://kgc.knowledge-graph.jp/data/SpeckledBand/133\">>"
+      }
+    ]
+  },
+  {
+    "text": "E is most used in the alphabet",
+    "annotations": [
+      {
+        "weight": 1.0,
+        "entity": "<<<<dm:E-kdp:appear-dm:Alphabet>>-rdf:value-\"http://kgc.knowledge-graph.jp/data/DancingMen/152\">>"
+      }
+    ]
+  },
+  {
+    "text": "Henry saw the following: Nancy condemned the following: Barclay sold Henry to the rebels.",
+    "annotations": [
+      {
+        "weight": 1.0,
+        "entity": "<<<<cm:Henry-kdp:see-<<<<cm:Nancy-kdp:blame-<<<<cm:Barclay-kdp:sell-cm:Henry>>-rdf:value-\"http://kgc.knowledge-graph.jp/data/CrookedMan/317\">>>>-rdf:value-\"http://kgc.knowledge-graph.jp/data/CrookedMan/316\">>>>-rdf:value-\"http://kgc.knowledge-graph.jp/data/CrookedMan/315\">>"
+      }
+    ]
+  },
+  {
+    "text": "Holmes said the following: Blessington was killed in an orchestrated and clever way.",
+    "annotations": [
+      {
+        "weight": 1.0,
+        "entity": "<<<<rp:Holmes-kdp:say-<<<<rp:Criminal-kdp:kill-rp:Blessington>>-rdf:value-\"http://kgc.knowledge-graph.jp/data/ResidentPatient/252\">>>>-rdf:value-\"http://kgc.knowledge-graph.jp/data/ResidentPatient/242\">>"
+      }
+    ]
+  },
+  {
+    "text": "Blessington said the following: Blessington was to manage the money on its own.",
+    "annotations": [
+      {
+        "weight": 1.0,
+        "entity": "<<<<rp:Blessington-kdp:say-<<<<rp:Blessington-kdp:manage-rp:Money>>-rdf:value-\"http://kgc.knowledge-graph.jp/data/ResidentPatient/184\">>>>-rdf:value-\"http://kgc.knowledge-graph.jp/data/ResidentPatient/182\">>"
+      }
+    ]
+  },
+  {
+    "text": "Jack Croker instructed: Theresa and Lady Brackenstall inform a police after the 15 minutes",
+    "annotations": [
+      {
+        "weight": 1.0,
+        "entity": "<<<<ag:Jack_Croker-kdp:instruct-<<<<ag:Lady_Brackenstall-kdp:inform-ag:police>>-rdf:value-\"http://kgc.knowledge-graph.jp/data/AbbeyGrange/377\">>>>-rdf:value-\"http://kgc.knowledge-graph.jp/data/AbbeyGrange/378\">>"
+      }
+    ]
+  },
+  {
+    "text": "Holmes walked around the lawn",
+    "annotations": [
+      {
+        "weight": 1.0,
+        "entity": "<<<<sb:Holmes-kdp:wander-sb:garden>>-rdf:value-\"http://kgc.knowledge-graph.jp/data/SpeckledBand/169\">>"
+      }
+    ]
+  },
+  {
+    "text": "Cubitt thinks of the following: Horse boy draws the Dancing dolls",
+    "annotations": [
+      {
+        "weight": 1.0,
+        "entity": "<<<<dm:Cubitt-kdp:think-<<<<dm:Horse_boy-kdp:draw-dm:Dancing_dolls>>-rdf:value-\"http://kgc.knowledge-graph.jp/data/DancingMen/030\">>>>-rdf:value-\"http://kgc.knowledge-graph.jp/data/DancingMen/029\">>"
+      }
+    ]
+  },
+  {
+    "text": "John Straker did not return from the next morning at 7 o'clock stables of the incident",
+    "annotations": [
+      {
+        "weight": 1.0,
+        "entity": "<<<<sl:John_Straker-kdp:notReturn-sl:John_Straker_house>>-rdf:value-\"http://kgc.knowledge-graph.jp/data/SilverBlaze/115\">>"
+      }
+    ]
+  },
+  {
+    "text": "The dancing dolls G means N, V, and R",
+    "annotations": [
+      {
+        "weight": 1.0,
+        "entity": "<<<<dm:Dancing_dolls_G-kdp:mean-dm:N>>-rdf:value-\"http://kgc.knowledge-graph.jp/data/DancingMen/159\">>"
+      }
+    ]
+  },
+  {
+    "text": "Holmes won't tell Stanley Hopkins the truth",
+    "annotations": [
+      {
+        "weight": 1.0,
+        "entity": "<<<<ag:Holmes-kdp:notSay-ag:truth>>-rdf:value-\"http://kgc.knowledge-graph.jp/data/AbbeyGrange/407\">>"
+      }
+    ]
+  },
+  {
+    "text": "Roylott's bedroom had a bed that could be folded.",
+    "annotations": [
+      {
+        "weight": 1.0,
+        "entity": "<<<<sb:Roylott\u2019s_bedroom-kdp:have-sb:folding_bed>>-rdf:value-\"http://kgc.knowledge-graph.jp/data/SpeckledBand/235\">>"
+      }
+    ]
+  },
+  {
+    "text": "Holmes can not predict the contents of the notification",
+    "annotations": [
+      {
+        "weight": 1.0,
+        "entity": "<<<<rp:Holmes-kdp:cannotPredict-rp:The_contents_of_Circular>>-rdf:value-\"http://kgc.knowledge-graph.jp/data/ResidentPatient/215\">>"
+      }
+    ]
+  },
+  {
+    "text": "Sutherland said the following: Ned is in Auckland",
+    "annotations": [
+      {
+        "weight": 1.0,
+        "entity": "<<<<ci:Sutherland-kdp:say-<<<<ci:Ned-kdp:exist-ci:Auckland>>-rdf:value-\"http://kgc.knowledge-graph.jp/data/ACaseOfIdentity/089\">>>>-rdf:value-\"http://kgc.knowledge-graph.jp/data/ACaseOfIdentity/086\">>"
+      }
+    ]
+  },
+  {
+    "text": "Wife of John Straker has caused two young men",
+    "annotations": [
+      {
+        "weight": 1.0,
+        "entity": "<<<<sl:Wife_of_John_Straker-kdp:let-sl:121a>>-rdf:value-\"http://kgc.knowledge-graph.jp/data/SilverBlaze/121\">>"
+      }
+    ]
+  },
+  {
+    "text": "There are no cats in the mansion.",
+    "annotations": [
+      {
+        "weight": 1.0,
+        "entity": "<<<<sb:cat-kdp:notExist-sb:mansion_of_Roylott>>-rdf:value-\"http://kgc.knowledge-graph.jp/data/SpeckledBand/246\">>"
+      }
+    ]
+  },
+  {
+    "text": "Elsie escaped from Abe_Slaney",
+    "annotations": [
+      {
+        "weight": 1.0,
+        "entity": "<<<<dm:Elsie-kdp:escape-dm:Abe_Slaney>>-rdf:value-\"http://kgc.knowledge-graph.jp/data/DancingMen/195\">>"
+      }
+    ]
+  },
+  {
+    "text": "Elsie shot Cubitt",
+    "annotations": [
+      {
+        "weight": 1.0,
+        "entity": "<<<<dm:Elsie-kdp:shoot-dm:Cubitt>>-rdf:value-\"http://kgc.knowledge-graph.jp/data/DancingMen/080\">>"
+      }
+    ]
+  },
+  {
+    "text": "The police had arrived.",
+    "annotations": [
+      {
+        "weight": 1.0,
+        "entity": "<<<<rp:police-kdp:arrive-rp:Brook_Street_house>>-rdf:value-\"http://kgc.knowledge-graph.jp/data/ResidentPatient/221\">>"
+      }
+    ]
+  },
+  {
+    "text": "Fitzroy Simpson could not explain the tie in the murder scene",
+    "annotations": [
+      {
+        "weight": 1.0,
+        "entity": "<<<<sl:Fitzroy_Simpson-kdp:cannotExplain-sl:Tie_of_the_murder_scene>>-rdf:value-\"http://kgc.knowledge-graph.jp/data/SilverBlaze/163\">>"
+      }
+    ]
+  },
+  {
+    "text": "Mortimer said the following: The criminal entered the room",
+    "annotations": [
+      {
+        "weight": 1.0,
+        "entity": "<<<<df:Mortimer-kdp:say-<<<<df:Criminal-kdp:enter-df:room>>-rdf:value-\"http://kgc.knowledge-graph.jp/data/DevilsFoot/094\">>>>-rdf:value-\"http://kgc.knowledge-graph.jp/data/DevilsFoot/071\">>"
+      }
+    ]
+  },
+  {
+    "text": "Holmes carefully investigated the back part of the chair",
+    "annotations": [
+      {
+        "weight": 1.0,
+        "entity": "<<<<sb:Holmes-kdp:examine-sb:back_part_of_chair>>-rdf:value-\"http://kgc.knowledge-graph.jp/data/SpeckledBand/252\">>"
+      }
+    ]
+  },
+  {
+    "text": "Sutherland worried about Windibank",
+    "annotations": [
+      {
+        "weight": 1.0,
+        "entity": "<<<<ci:Sutherland-kdp:worry-ci:Windibank>>-rdf:value-\"http://kgc.knowledge-graph.jp/data/ACaseOfIdentity/212\">>"
+      }
+    ]
+  },
+  {
+    "text": "Mortimer closed the door behind him",
+    "annotations": [
+      {
+        "weight": 1.0,
+        "entity": "<<<<df:Mortimer-kdp:close-df:door>>-rdf:value-\"http://kgc.knowledge-graph.jp/data/DevilsFoot/081\">>"
+      }
+    ]
+  },
+  {
+    "text": "Watson said the following: Hosma received an appeal against breach of covenant.",
+    "annotations": [
+      {
+        "weight": 1.0,
+        "entity": "<<<<ci:Watson-kdp:say-<<<<ci:Hosmer-kdp:receive-ci:Appeal_of_breach_of_pledge>>-rdf:value-\"http://kgc.knowledge-graph.jp/data/ACaseOfIdentity/380\">>>>-rdf:value-\"http://kgc.knowledge-graph.jp/data/ACaseOfIdentity/377\">>"
+      }
+    ]
+  },
+  {
+    "text": "John Straker sent a letter to William Derbyshire",
+    "annotations": [
+      {
+        "weight": 1.0,
+        "entity": "<<<<sl:John_Straker-kdp:send-sl:letter>>-rdf:value-\"http://kgc.knowledge-graph.jp/data/SilverBlaze/239\">>"
+      }
+    ]
+  },
+  {
+    "text": "Mortimer was unhappy with the distribution of money",
+    "annotations": [
+      {
+        "weight": 1.0,
+        "entity": "<<<<df:Mortimer-kdp:notSatisfied-df:distribution_of_money>>-rdf:value-\"http://kgc.knowledge-graph.jp/data/DevilsFoot/102\">>"
+      }
+    ]
+  },
+  {
+    "text": "Inspector Gregory passed a photo of John Straker Holmes",
+    "annotations": [
+      {
+        "weight": 1.0,
+        "entity": "<<<<sl:Inspector_Gregory-kdp:give-sl:Photos_of_John_Straker>>-rdf:value-\"http://kgc.knowledge-graph.jp/data/SilverBlaze/332\">>"
+      }
+    ]
+  },
+  {
+    "text": "Watson said the following: Signature repeals vow",
+    "annotations": [
+      {
+        "weight": 1.0,
+        "entity": "<<<<ci:Watson-kdp:say-<<<<ci:signature-kdp:deny-ci:Pledge>>-rdf:value-\"http://kgc.knowledge-graph.jp/data/ACaseOfIdentity/378\">>>>-rdf:value-\"http://kgc.knowledge-graph.jp/data/ACaseOfIdentity/377\">>"
+      }
+    ]
+  },
+  {
+    "text": "This morning, Sterndale heard the news",
+    "annotations": [
+      {
+        "weight": 1.0,
+        "entity": "<<<<df:Sterndale-kdp:hear-df:news>>-rdf:value-\"http://kgc.knowledge-graph.jp/data/DevilsFoot/224\">>"
+      }
+    ]
+  },
+  {
+    "text": "John Straker had purchased the clothes.",
+    "annotations": [
+      {
+        "weight": 1.0,
+        "entity": "<<<<sl:John_Straker-kdp:buy-sl:Expensive_clothes>>-rdf:value-\"http://kgc.knowledge-graph.jp/data/SilverBlaze/394\">>"
+      }
+    ]
+  },
+  {
+    "text": "Barclay died in the living room of the room.",
+    "annotations": [
+      {
+        "weight": 1.0,
+        "entity": "<<<<cm:Barclay-kdp:die-cm:living_room>>-rdf:value-\"http://kgc.knowledge-graph.jp/data/CrookedMan/078\">>"
+      }
+    ]
+  },
+  {
+    "text": "Roylott travels to London today.",
+    "annotations": [
+      {
+        "weight": 1.0,
+        "entity": "<<<<sb:Roylott-kdp:go-sb:London>>-rdf:value-\"http://kgc.knowledge-graph.jp/data/SpeckledBand/133\">>"
+      }
+    ]
+  },
+  {
+    "text": "Roylott visited Holmes.",
+    "annotations": [
+      {
+        "weight": 1.0,
+        "entity": "<<<<sb:Roylott-kdp:come-sb:house_of_Holmes>>-rdf:value-\"http://kgc.knowledge-graph.jp/data/SpeckledBand/137\">>"
+      }
+    ]
+  },
+  {
+    "text": "Holmes thought the following: The man was watching the bickering of Nancy and Berkeley from the main street.",
+    "annotations": [
+      {
+        "weight": 1.0,
+        "entity": "<<<<cm:Holmes-kdp:think-<<<<cm:man-kdp:see-<<<<cm:Barclay-kdp:argue-owl:Nothing>>-rdf:value-\"http://kgc.knowledge-graph.jp/data/CrookedMan/086\">>>>-rdf:value-\"http://kgc.knowledge-graph.jp/data/CrookedMan/149\">>>>-rdf:value-\"http://kgc.knowledge-graph.jp/data/CrookedMan/148\">>"
+      }
+    ]
+  },
+  {
+    "text": "Owen, George, and Brenda stand around a table",
+    "annotations": [
+      {
+        "weight": 1.0,
+        "entity": "<<<<df:Brenda-kdp:stand-df:table>>-rdf:value-\"http://kgc.knowledge-graph.jp/data/DevilsFoot/361\">>"
+      }
+    ]
+  },
+  {
+    "text": "Mortimer entered the living room",
+    "annotations": [
+      {
+        "weight": 1.0,
+        "entity": "<<<<df:Mortimer-kdp:enter-df:Living_room>>-rdf:value-\"http://kgc.knowledge-graph.jp/data/DevilsFoot/403\">>"
+      }
+    ]
+  }
+]

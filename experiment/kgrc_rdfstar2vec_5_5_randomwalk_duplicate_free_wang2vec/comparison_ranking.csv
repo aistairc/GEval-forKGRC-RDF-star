@@ -1,0 +1,58 @@
+task_name gold_standard_file model model_configuration metric ranking absolute_total relative_total
+Clustering kgrc_person_object_place DBSCAN metric=cosine adjusted_rand_index 0 35 28
+Clustering kgrc_person_object_place DBSCAN metric=cosine adjusted_mutual_info_score 21 35 28
+Clustering kgrc_person_object_place DBSCAN metric=cosine homogeneity_score 19 35 28
+Clustering kgrc_person_object_place DBSCAN metric=cosine completeness_score 0 35 28
+Clustering kgrc_person_object_place DBSCAN metric=cosine v_measure_score 13 35 28
+Clustering kgrc_person_object_place DBSCAN metric=cosine normalized_mutual_info_score 13 35 28
+Clustering kgrc_person_object_place DBSCAN metric=cosine clustering_accuracy 12 35 27
+Clustering kgrc_person_object_place KMeans "metric=enclidean, n_clusters=3" adjusted_rand_index 27 35 28
+Clustering kgrc_person_object_place KMeans "metric=enclidean, n_clusters=3" adjusted_mutual_info_score 27 35 28
+Clustering kgrc_person_object_place KMeans "metric=enclidean, n_clusters=3" homogeneity_score 27 35 28
+Clustering kgrc_person_object_place KMeans "metric=enclidean, n_clusters=3" completeness_score 25 35 28
+Clustering kgrc_person_object_place KMeans "metric=enclidean, n_clusters=3" v_measure_score 27 35 28
+Clustering kgrc_person_object_place KMeans "metric=enclidean, n_clusters=3" normalized_mutual_info_score 27 35 28
+Clustering kgrc_person_object_place KMeans "metric=enclidean, n_clusters=3" clustering_accuracy 31 35 27
+Clustering kgrc_person_object_place "Agglomerative clustering" "metric=cosine, n_clusters=3" adjusted_rand_index 4 35 28
+Clustering kgrc_person_object_place "Agglomerative clustering" "metric=cosine, n_clusters=3" adjusted_mutual_info_score 4 35 28
+Clustering kgrc_person_object_place "Agglomerative clustering" "metric=cosine, n_clusters=3" homogeneity_score 4 35 28
+Clustering kgrc_person_object_place "Agglomerative clustering" "metric=cosine, n_clusters=3" completeness_score 4 35 28
+Clustering kgrc_person_object_place "Agglomerative clustering" "metric=cosine, n_clusters=3" v_measure_score 4 35 28
+Clustering kgrc_person_object_place "Agglomerative clustering" "metric=cosine, n_clusters=3" normalized_mutual_info_score 4 35 28
+Clustering kgrc_person_object_place "Agglomerative clustering" "metric=cosine, n_clusters=3" clustering_accuracy 4 35 19
+Clustering kgrc_person_object_place "Ward hierarchical clustering" "metric=cosine, n_clusters=3" adjusted_rand_index 6 35 28
+Clustering kgrc_person_object_place "Ward hierarchical clustering" "metric=cosine, n_clusters=3" adjusted_mutual_info_score 6 35 28
+Clustering kgrc_person_object_place "Ward hierarchical clustering" "metric=cosine, n_clusters=3" homogeneity_score 6 35 28
+Clustering kgrc_person_object_place "Ward hierarchical clustering" "metric=cosine, n_clusters=3" completeness_score 4 35 28
+Clustering kgrc_person_object_place "Ward hierarchical clustering" "metric=cosine, n_clusters=3" v_measure_score 6 35 28
+Clustering kgrc_person_object_place "Ward hierarchical clustering" "metric=cosine, n_clusters=3" normalized_mutual_info_score 6 35 28
+Clustering kgrc_person_object_place "Ward hierarchical clustering" "metric=cosine, n_clusters=3" clustering_accuracy 6 35 24
+Clustering kgrc_qt900 DBSCAN metric=cosine adjusted_rand_index 59 62 42
+Clustering kgrc_qt900 DBSCAN metric=cosine adjusted_mutual_info_score 60 62 42
+Clustering kgrc_qt900 DBSCAN metric=cosine homogeneity_score 51 62 42
+Clustering kgrc_qt900 DBSCAN metric=cosine completeness_score 16 62 42
+Clustering kgrc_qt900 DBSCAN metric=cosine v_measure_score 41 62 42
+Clustering kgrc_qt900 DBSCAN metric=cosine normalized_mutual_info_score 41 62 42
+Clustering kgrc_qt900 DBSCAN metric=cosine clustering_accuracy 16 62 35
+Clustering kgrc_qt900 KMeans "metric=enclidean, n_clusters=3" adjusted_rand_index 53 62 22
+Clustering kgrc_qt900 KMeans "metric=enclidean, n_clusters=3" adjusted_mutual_info_score 14 62 22
+Clustering kgrc_qt900 KMeans "metric=enclidean, n_clusters=3" homogeneity_score 14 62 22
+Clustering kgrc_qt900 KMeans "metric=enclidean, n_clusters=3" completeness_score 11 62 22
+Clustering kgrc_qt900 KMeans "metric=enclidean, n_clusters=3" v_measure_score 14 62 22
+Clustering kgrc_qt900 KMeans "metric=enclidean, n_clusters=3" normalized_mutual_info_score 14 62 22
+Clustering kgrc_qt900 KMeans "metric=enclidean, n_clusters=3" clustering_accuracy 34 62 20
+Clustering kgrc_qt900 "Agglomerative clustering" "metric=cosine, n_clusters=3" adjusted_rand_index 9 62 28
+Clustering kgrc_qt900 "Agglomerative clustering" "metric=cosine, n_clusters=3" adjusted_mutual_info_score 35 62 28
+Clustering kgrc_qt900 "Agglomerative clustering" "metric=cosine, n_clusters=3" homogeneity_score 33 62 28
+Clustering kgrc_qt900 "Agglomerative clustering" "metric=cosine, n_clusters=3" completeness_score 36 62 28
+Clustering kgrc_qt900 "Agglomerative clustering" "metric=cosine, n_clusters=3" v_measure_score 35 62 28
+Clustering kgrc_qt900 "Agglomerative clustering" "metric=cosine, n_clusters=3" normalized_mutual_info_score 35 62 28
+Clustering kgrc_qt900 "Agglomerative clustering" "metric=cosine, n_clusters=3" clustering_accuracy 9 62 22
+Clustering kgrc_qt900 "Ward hierarchical clustering" "metric=cosine, n_clusters=3" adjusted_rand_index 27 62 32
+Clustering kgrc_qt900 "Ward hierarchical clustering" "metric=cosine, n_clusters=3" adjusted_mutual_info_score 52 62 32
+Clustering kgrc_qt900 "Ward hierarchical clustering" "metric=cosine, n_clusters=3" homogeneity_score 52 62 32
+Clustering kgrc_qt900 "Ward hierarchical clustering" "metric=cosine, n_clusters=3" completeness_score 52 62 32
+Clustering kgrc_qt900 "Ward hierarchical clustering" "metric=cosine, n_clusters=3" v_measure_score 52 62 32
+Clustering kgrc_qt900 "Ward hierarchical clustering" "metric=cosine, n_clusters=3" normalized_mutual_info_score 52 62 32
+Clustering kgrc_qt900 "Ward hierarchical clustering" "metric=cosine, n_clusters=3" clustering_accuracy 57 62 25
+EntityRelatedness kgrc_entity_relatedness - - kendalltau_correlation 27 37 18

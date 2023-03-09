@@ -1,0 +1,6 @@
+TESTED CONFIGURATION
+Vector filename: ikgrc_embeddings/ikgrc_rdfstar2vec_5_5_remove_Person_Object_Place_word2vec.txt
+Vector size:100
+Distance metric:cosine
+
+Classification execution time: 0.0:0.0:49.93 seconds
