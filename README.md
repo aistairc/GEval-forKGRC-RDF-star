@@ -97,7 +97,7 @@ In **Evaluation-Framework/tutorial_results_interpretation** folder you can find 
 
 ## Dataset to generate embeddings
 	
-We used [KGRC-RDF-star](https://anonymous.4open.science/r/KGRC-RDF-star-69D9/).
+We used [KGRC-RDF-star](https://github.com/aistairc/KGRC-RDF-star).
  
 	
 ## Dependencies
@@ -106,4 +106,4 @@ The framework is tested to work with Python 3.8.3.
 The required dependencies are: `Numpy==1.14.0, Pandas==0.22.0, Scikit-learn==0.19.2, Scipy==1.1.0, H5py==2.8.0, unicodecsv==0.14.1`.
 
 ## License
-The Apache license applies to the provided source code.
+The Apache license applies to the extended source code. The CC BY 4.0 applies to the gold standard datasets ([PersonObjectPlace, QT900](evaluation_framework/Classification/data/README.md), [kgrc_entity_relatedness](evaluation_framework/EntityRelatedness/data/README.md), [QT50](evaluation_framework/DocumentSimilarity/data/README.md)). The license of the original software can be found [here](https://github.com/mariaangelapellegrino/Evaluation-Framework). For source datasets, please check the license information [here](https://github.com/aistairc/KGRC-RDF-star#license).
