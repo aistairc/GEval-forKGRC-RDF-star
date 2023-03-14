@@ -97,9 +97,7 @@ In **Evaluation-Framework/tutorial_results_interpretation** folder you can find 
 
 ## Dataset
 	
-We used [KGRC-RDF-star](https://github.com/aistairc/KGRC-RDF-star).
-
-Please see **[here](doc/gold_standard_datasets.md)** for more information about gold standard datasets.
+The [gold standard datasets](doc/gold_standard_datasets.md) for evaluation were created from [KGRC-RDF-star](https://github.com/aistairc/KGRC-RDF-star). Please see **[here](doc/gold_standard_datasets.md)**.
 	
 ## Dependencies
 The framework is tested to work with Python 3.8.3.
