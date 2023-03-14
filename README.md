@@ -95,11 +95,11 @@ In **Evaluation-Framework/tutorial_results_interpretation** folder you can find 
 
 -->
 
-## Dataset to generate embeddings
+## Dataset
 	
 We used [KGRC-RDF-star](https://github.com/aistairc/KGRC-RDF-star).
 
-Please see [here]() for more information about gold standard datasets.
+Please see **[here](doc/gold_standard_datasets.md)** for more information about gold standard datasets.
 	
 ## Dependencies
 The framework is tested to work with Python 3.8.3.
