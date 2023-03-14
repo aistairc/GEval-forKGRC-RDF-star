@@ -4,8 +4,8 @@
 
 | **Dataset** | **Semantic of classes** | **Classes** | **Size** | **Source** |
 | :---------: | :---------------------: | ----------: | -------: | :--------: |
-|   PersonObjectPlace    |      Type of entities       |           3 |      540 |   KGRC-RDF-star   |
-|   QT900     |  Type of quoted triples   |           3 |      900 |    KGRC-RDF-star     |
+|   [PersonObjectPlace](./gold_standard_datasets.md#personobjectplace)    |      Type of entities       |           3 |      540 |   KGRC-RDF-star   |
+|   [QT900](./gold_standard_datasets.md#qt900)     |  Type of quoted triples   |           3 |      900 |    KGRC-RDF-star     |
 
 ### Model and its configuration
 

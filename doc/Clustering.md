@@ -4,8 +4,8 @@
 
 | **Dataset** | **Interpretation of clusters** | **Clusters** | **Size** | 
 | :---------: | :---------------------: | ----------: | -------: |
-|   PersonObjectPlace    |     {Person, Object Place}      |           3 |      540 
-| QT900 | {Situation, Statement, Thought} | 3 | 900 |
+|   [PersonObjectPlace](./gold_standard_datasets.md#personobjectplace)    |     {Person, Object Place}      |           3 |      540 
+| [QT900](./gold_standard_datasets.md#qt900) | {Situation, Statement, Thought} | 3 | 900 |
 
 ### Model and its configuration
 

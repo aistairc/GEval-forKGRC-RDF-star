@@ -4,7 +4,7 @@
 
 | **Dataset** | **Structure** | **Size** |
 | :---------: | :---------------------: | ----------: | 
-|   kgrc_entity_relatedness    |  _Person entity_ with a sorted list of 10 _related entities_ | 210 entities |
+|   [kgrc_entity_relatedness](./gold_standard_datasets.md#kgrc_entity_relatedness)    |  _Person entity_ with a sorted list of 10 _related entities_ | 210 entities |
 
 ### Model 
     sim_scores = []

@@ -4,7 +4,7 @@
 
 | **Dataset** | **Structure** | **Size** |
 | :---------: | :---------------------: | ----------: | 
-|   QT50   | qt1 qt2 avg | 50 QTs |
+|   [QT50](./gold_standard_datasets.md#qt50)   | qt1 qt2 avg | 50 QTs |
 
 ### Model 
 similarity(qt1, qt2)
