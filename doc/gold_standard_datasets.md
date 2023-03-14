@@ -1,8 +1,30 @@
 # Gold standard datasets
 
+## Contents
+- [Prefix](#prefix)
 - [PersonObjectPlace](#personobjectplace)
 - [QT900](#qt900)
+- [kgrc_entity_relatedness](#kgrc_entity_relatedness)
+- [QT50](#qt50)
 
+## Prefix
+The following prefixes are used in the URI of the entity.
+
+| Prefix | URI                                                 |
+|--------|-----------------------------------------------------|
+| ac:    | http://kgc.knowledge-graph.jp/data/ACaseOfIdentity/ |
+| ag:    | http://kgc.knowledge-graph.jp/data/AbbeyGrange/     |
+| cm:    | http://kgc.knowledge-graph.jp/data/CrookedMan/      |
+| dm:    | http://kgc.knowledge-graph.jp/data/DancingMen/      |
+| df:    | http://kgc.knowledge-graph.jp/data/DevilsFoot/      |
+| rp:    | http://kgc.knowledge-graph.jp/data/ResidentPatient/ |
+| sl:    | http://kgc.knowledge-graph.jp/data/SilverBlaze      |
+| sb:    | http://kgc.knowledge-graph.jp/data/SpeckledBand     |
+| kdp:   | http://kgc.knowledge-graph.jp/data/predicate/       |
+| kgc:   | http://kgc.knowledge-graph.jp/ontology/kgc.owl#     |
+| rdf:   | http://www.w3.org/1999/02/22-rdf-syntax-ns#         |
+| rdfs:  | http://www.w3.org/2000/01/rdf-schema#               |
+| owl:   | http://www.w3.org/2002/07/owl#                      |
 
 ## PersonObjectPlace
 
@@ -48,3 +70,6 @@ QT50 was created with the following steps, using the methodology of [LP50](https
 3. MTurk workers judge the similarity on a five-point scale (with one indicating "not similar at all" and five indicating "quite similar"). Each question is answered by 10 workers.
 4. Five pairs are created as the gold standard by authors to improve the quality of the crowdsourcing task. Spam workers are removed based on the answers for these pairs.
 5. The average similarity scores of each pair are calculated.
+
+## License
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Dataset" property="dct:title" rel="dct:type">GEval for KGRC-RDF-star</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/Ease112/GEval-forKGRC-RDF-star" property="cc:attributionName" rel="cc:attributionURL">Shusaku Egami</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/aistairc/KGRC-RDF-star" rel="dct:source">https://github.com/aistairc/KGRC-RDF-star</a>.
